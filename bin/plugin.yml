@@ -1,0 +1,6 @@
+name: CaveWorld
+version: 1.0.0
+author: JJDev256
+main: me.JJDev256.CrazyScenarios.CaveWorld.Main
+api-version: 1.15
+load: startup
